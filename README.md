@@ -10,7 +10,7 @@
   <p/>
  
 
-<h3 align="center">Formado em engenharia de software pela UnirRV em 2019. Apaixonado em  tecnologias 🛠 e amanta do mundo do agro 🌱</h3>
+<h3 align="center">Graduado em engenharia de software pela UnirRV em 2019. Apaixonado em  tecnologias 🛠 e amante do mundo do agro 🌱</h3>
 
 <h3 align="left">Tenho conhecimento em:</h3>
 
